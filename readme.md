@@ -1,0 +1,1 @@
+Using this callback hell is practiced using setTimeout.

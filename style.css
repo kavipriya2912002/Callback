@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://png.pngtree.com/background/20211215/original/pngtree-yellow-green-pigeon-indian-independence-day-background-picture-image_1456726.jpg);
+    color: #101820;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+    margin: 100px auto;
+    /* padding: 25px 50px; */
+}
+
+#block{
+    background-color: rgb(95, 254, 21);
+    margin: 200px 100px;
+    border: 5px solid red;
+    
+}
